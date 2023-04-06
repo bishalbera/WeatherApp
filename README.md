@@ -8,7 +8,7 @@
 
 The following **required** functionality is completed:
 
-* [x] Open weather API impleneted
+* [x] Open weather map API impleneted
 * [x] User can write a city name
 * [x] The user gets the information according to the city that they typed
 * [x] The user gets a 404 error or text a showed "Invalid city name" if city is mis spelt or not found in API data base
